@@ -8,7 +8,7 @@ If you use this code, please cite our paper:
 @article{
 anonymous2023conditional,
 title={Conditional Permutation Invariant Flows},
-author={Anonymous},
+author={Zwartsenberg, Berend and \'Scibior, Adam and Niedoba, Matthew and Lioutas, Vasileios and Sefas, Justice and Liu, Yunpeng and Dabiri, Setareh and Lavington, Jonathan Wilder and Campbell, Trevor and Wood, Frank},
 journal={Submitted to Transactions on Machine Learning Research},
 year={2023},
 url={https://openreview.net/forum?id=DUsgPi3oCC},
