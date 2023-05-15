@@ -6,13 +6,14 @@ The datasets are derivatives of two publicly available datasets. Since both have
 If you use this code, please cite our paper:
 ```
 @article{
-anonymous2023conditional,
+zwartsenberg2023conditional,
 title={Conditional Permutation Invariant Flows},
-author={Zwartsenberg, Berend and \'Scibior, Adam and Niedoba, Matthew and Lioutas, Vasileios and Sefas, Justice and Liu, Yunpeng and Dabiri, Setareh and Lavington, Jonathan Wilder and Campbell, Trevor and Wood, Frank},
-journal={Submitted to Transactions on Machine Learning Research},
+author={Berend Zwartsenberg and Adam Scibior and Matthew Niedoba and Vasileios Lioutas and Justice Sefas and Yunpeng Liu and Setareh Dabiri and Jonathan Wilder Lavington and Trevor Campbell and Frank Wood},
+journal={Transactions on Machine Learning Research},
+issn={2835-8856},
 year={2023},
 url={https://openreview.net/forum?id=DUsgPi3oCC},
-note={Under review}
+note={}
 }
 ```
 ## Conditional traffic scenes 
